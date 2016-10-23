@@ -6,7 +6,7 @@ Offline Android App to illustrate Auto Complete Indian cities and states text vi
 ![alt tag](https://github.com/VinayakBagaria/Indian-States-and-Cities-Android/blob/master/layout-2016-10-23-231347.png)
 
 <hr>
-<h3>Containers of the Activity
+<h3>Containers of the Activity</h3>
 <ol>
 <li>Spinner / Drop Down Combo Box</li>
 <li>Auto Complete Text View for - 
