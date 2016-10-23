@@ -1,5 +1,6 @@
 # Indian-States-and-Cities-Android
 Offline Android App to illustrate Auto Complete Indian cities and states text views
+<p>The project uses the 1219 Indian cities and states json file from the github repository <a>https://github.com/nshntarora/Indian-Cities-JSON</a> contained in the assets folder as 'cities.json'. The items are added to the spinner and auto complete text views through adapters and array lists.</p>
 
 <hr>
 <h1> Screenshot of the app</h1>
@@ -18,6 +19,3 @@ Offline Android App to illustrate Auto Complete Indian cities and states text vi
 </li>
 </ol>
 
-<hr>
-<h3>References</h3>
-<p>The project uses the 1219 Indian cities and states json file from the github repository <a>https://github.com/nshntarora/Indian-Cities-JSON</a> contained in the assets folder as 'cities.json'. The items are added to the spinner and auto complete text views through adapters and array lists.</p>
