@@ -4,7 +4,8 @@ Offline Android App to illustrate Auto Complete Indian cities and states text vi
 
 <hr>
 <h1> Screenshot of the app</h1>
-![alt tag](https://github.com/VinayakBagaria/Indian-States-and-Cities-Android/blob/master/layout-2016-10-23-231347.png)
+
+![Image](/layout-2016-10-23-231347.png)
 
 <hr>
 <h3>Containers of the Activity</h3>
